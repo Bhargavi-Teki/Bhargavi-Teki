@@ -24,10 +24,12 @@ Credits and references used in this README:
 ## Skill Stack
 
 ### Data Analysis & BI
-<img src="./assets/icons/excel" width="48"/>
-<img src="./assets/icons/powerbi" width="48"/>
-<img src="./assets/icons/google-sheets" width="48"/>
-<img src="./assets/icons/powerpoint" width="48"/>
+### Data Analysis & BI
+<img src="./assets/icons/excel.png" width="48"/>
+<img src="./assets/icons/powerbi.png" width="48"/>
+<img src="./assets/icons/google-sheets.png" width="48"/>
+<img src="./assets/icons/powerpoint.png" width="48"/>
+
 
 
 ### Databases
