@@ -1,36 +1,130 @@
-<h1 align="center">Hi 👋, I'm Bhargavi Teki</h1>
-<h3 align="center">Business Analyst Intern @ Idea Usher: Learning how real business questions turn into real decisions</h3>
+<!--
+Credits and references used in this README:
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bhargavi-teki&label=Profile%20views&color=0e75b6&style=flat" alt="bhargavi-teki" /> </p>
+1) Layout ideas and section inspiration:
+   https://github.com/abhisheknaiidu/awesome-github-profile-readme?tab=readme-ov-file#descriptive-
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bhargavi-teki" alt="bhargavi-teki" /></a> </p>
+2) Skill icons (SVG badges):
+   https://github.com/tandpfun/skill-icons?tab=readme-ov-file#icons-list
 
-- 🔭 I’m currently working on **SQL Case Study - Employee Attrition Analysis**
+3) GitHub stats card:
+   https://github.com/anuraghazra/github-readme-stats
+-->
 
-- 💡 I can help with **BRDs | Data Analysis | Dashboards | Data Storytelling | Stakeholder Communication**
+# Bhargavi Teki
+**`Business Analyst intern @ Idea Usher`** 
 
-- 🌱 I’m currently learning **Python for data analysis and advanced SQL.**
+## About Me
+- Worked on live client projects involving business and data analysis.
+- Created BRDs & FRDs, gathered requirements, and coordinated with stakeholders.
+- Built dashboards, tracked KPIs, and analyzed business performance data.
 
-- 🤝 I’m looking for help with **AI project ideas aligned with business analytics and practical problem-solving use cases.**
 
-- 👥 What I bring to a team [Clear communication, structured documentation (BRDs), analytical thinking, and a calm approach to complex problems.](Clear communication, structured documentation (BRDs), analytical thinking, and a calm approach to complex problems.)
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1F2S7dX9hyACodzFfd9aIm8hyCwvTmvw6/view?usp=sharing](https://drive.google.com/file/d/1F2S7dX9hyACodzFfd9aIm8hyCwvTmvw6/view?usp=sharing)
+## Skill Stack
 
-- 📫 How to reach me **https://www.linkedin.com/in/bhargaviteki | bhargaviteki471@gmail.com**
+### Data Analysis & BI
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" width="48"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/excel/excel-original.svg" width="48"/>
 
-- ⚡ Fun fact [The only beings that drain my energy faster than anything… are errors.](The only beings that drain my energy faster than anything… are errors.)
+### Databases
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48"/>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/bhargaviteki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/bhargaviteki" height="30" width="40" /></a>
-<a href="https://instagram.com/bhargavi_teki_471" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bhargavi_teki_471" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/teki bhargavi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="teki bhargavi" height="30" width="40" /></a>
-</p>
+### Productivity & Business Tools
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoft/microsoft-original.svg" width="48"/>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
+### Data Analysis & BI
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" width="48"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/excel/excel-original.svg" width="48"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoft/microsoft-original.svg" width="48"/>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bhargavi-teki&show_icons=true&locale=en&layout=compact" alt="bhargavi-teki" /></p>
+[![My Skills](https://skillicons.dev/icons?i=excel&theme=light)](https://skillicons.dev)  
+**Power BI**, **Advanced Excel** (Dashboards, Pivot Tables, Power Query)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bhargavi-teki&show_icons=true&locale=en" alt="bhargavi-teki" /></p>
+### Databases & Querying
+[![My Skills](https://skillicons.dev/icons?i=mysql&theme=light)](https://skillicons.dev)  
+SQL (Data extraction, joins, aggregations)
+
+### Business & Productivity Tools
+[![My Skills](https://skillicons.dev/icons?i=Lucidchart,figma&theme=light)](https://skillicons.dev)  
+Documentation, Wireframing, Stakeholder communication
+
+**Also comfortable with**: SQL (Postgres), CI/CD pipelines, Networking and Security (VPC, IAM), Basic ML workflows.
+
+
+---
+
+## Projects - showcase
+
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://github.com/maximus-soares/Projects/blob/main/AI%20Projects/Deepseek.md">
+        <img src="http://learn.nextwork.org/happy_maroon_jolly_red_currant/uploads/ai-llm-deepseek_gggggggg"
+             alt="DeepSeek AI Project"
+             style="width:100%; height:200px; object-fit:cover;"/>
+      </a>
+      <br/>
+      <b>DeepSeek AI Chatbot</b><br/>
+      <sub>Built an LLM-powered chatbot that answers domain-specific questions in real time.</sub><br/>
+      🔗 <a href="https://github.com/maximus-soares/Projects/blob/main/AI%20Projects/Deepseek.md">Repo</a>
+      <br/>
+      <sub>Tags: AI, LLMs, Prompt Engineering</sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://github.com/maximus-soares/Projects/blob/main/CICD%20Pipeline/Set%20Up%20a%20Web%20App%20in%20the%20Cloud.md">
+        <img src="https://learn.nextwork.org/projects/static/aws-devops-vscode/architecture-complete.png"
+             alt="CI/CD Pipeline Project"
+             style="width:100%; height:200px; object-fit:cover;"/>
+      </a>
+      <br/>
+      <b>Cloud CI/CD Pipeline</b><br/>
+      <sub>Automated deployment of a web app using GitHub Actions and AWS ECS.</sub><br/>
+      🔗 <a href="https://github.com/maximus-soares/Projects/blob/main/CICD%20Pipeline/Set%20Up%20a%20Web%20App%20in%20the%20Cloud.md">Repo</a>
+      <br/>
+      <sub>Tags: DevOps, Docker, GitHub Actions</sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://github.com/maximus-soares/Projects/blob/main/Networking/1%20Build%20a%20VPC.md">
+        <img src="https://camo.githubusercontent.com/6b6af843159b1de02c9a7ae1908b05a29b1c2383077f1c3d38a08ac7889c81bd/687474703a2f2f6c6561726e2e6e657874776f726b2e6f72672f68617070795f6d61726f6f6e5f6a6f6c6c795f7265645f63757272616e742f75706c6f6164732f6177732d6e6574776f726b732d7670635f3266616366393237"
+             alt="VPC Networking Project"
+             style="width:100%; height:200px; object-fit:cover;"/>
+      </a>
+      <br/>
+      <b>Secure AWS VPC</b><br/>
+      <sub>Designed and deployed a custom VPC with public/private subnets and routing.</sub><br/>
+      🔗 <a href="https://github.com/maximus-soares/Projects/blob/main/Networking/1%20Build%20a%20VPC.md">Repo</a>
+      <br/>
+      <sub>Tags: Networking, AWS, Security</sub>
+    </td>
+  </tr>
+</table>
+
+---
+
+## Stats
+<!-- Stats card by anuraghazra/github-readme-stats
+     Customization guide:
+     - Hide private contributions: &count_private=true|false
+     - Theme list: ?theme=gruvbox,radical,tokyonight,onedark,dracula etc.
+     - Show icons: &show_icons=true
+     Docs: https://github.com/anuraghazra/github-readme-stats -->
+![Maximus' GitHub stats](https://github-readme-stats.vercel.app/api?username=maximus-soares&show_icons=true&theme=gruvbox)
+
+---
+
+## Links
+<!-- Section layout inspired by Awesome GitHub Profile README "Descriptive" patterns:
+     https://github.com/abhisheknaiidu/awesome-github-profile-readme?tab=readme-ov-file#descriptive- -->
+- [**Portfolio**](https://learn.nextwork.org/happy_maroon_jolly_red_currant/portfolio)
+- [**Contact**](mailto:maximus@nextwork.org)
+
+<a href="https://www.linkedin.com/in/maximus-soares/" target="blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+</a>
+<a href="https://www.instagram.com/mmaximus.soares/" target="blank">
+  <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
+</a>
+
+<!-- Optional: fun GIF. Consider replacing with contribution streak or removing for a tighter, more professional finish. -->
+![image](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXh2ZzdlYWZndHl2dWcyb2RveHlpYzhsand5YmRmaHRwdXhlcGZhZyZlcD12MV9naWZzX3RyZW5kaW5nJmN0PWc/l3q2wJsC23ikJg9xe/giphy.gif)
