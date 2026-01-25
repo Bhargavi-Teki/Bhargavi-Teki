@@ -23,38 +23,23 @@ Credits and references used in this README:
 
 ## Skill Stack
 
-### Data Analysis & BI
-### Data Analysis & BI
-<img src="./assets/icons/excel.png" width="48"/>
-<img src="./assets/icons/powerbi.png" width="48"/>
-<img src="./assets/icons/google-sheets.png" width="48"/>
-<img src="./assets/icons/powerpoint.png" width="48"/>
+### Data Analytics
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
+![Power BI](https://img.shields.io/badge/-Power%20BI-000?&logo=Power-BI)
+![Dashboards](https://img.shields.io/badge/-Dashboards-000?&logo=Tableau&logoColor=white)
 
 
+### Business Analysis & Delivery
+![BRD](https://img.shields.io/badge/-BRD-000?&logo=Confluence)
+![FRD](https://img.shields.io/badge/-FRD-000?&logo=Confluence)
+![Agile](https://img.shields.io/badge/-Agile-000?&logo=Agile)
+![Jira](https://img.shields.io/badge/-Jira-000?&logo=Jira)
 
-### Databases
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48"/>
-
-### Productivity & Business Tools
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoft/microsoft-original.svg" width="48"/>
-
-### Data Analysis & BI
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" width="48"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/excel/excel-original.svg" width="48"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoft/microsoft-original.svg" width="48"/>
-
-[![My Skills](https://skillicons.dev/icons?i=excel&theme=light)](https://skillicons.dev)  
-**Power BI**, **Advanced Excel** (Dashboards, Pivot Tables, Power Query)
-
-### Databases & Querying
-[![My Skills](https://skillicons.dev/icons?i=mysql&theme=light)](https://skillicons.dev)  
-SQL (Data extraction, joins, aggregations)
-
-### Business & Productivity Tools
-[![My Skills](https://skillicons.dev/icons?i=Lucidchart,figma&theme=light)](https://skillicons.dev)  
-Documentation, Wireframing, Stakeholder communication
-
-**Also comfortable with**: SQL (Postgres), CI/CD pipelines, Networking and Security (VPC, IAM), Basic ML workflows.
+### Tools & Platforms
+![Microsoft Excel](https://img.shields.io/badge/-Microsoft%20Excel-000?&logo=Microsoft-Excel)
+![Microsoft Office](https://img.shields.io/badge/-Microsoft%20Office-000?&logo=Microsoft-Office)
+![Google Workspace](https://img.shields.io/badge/-Google%20Workspace-000?&logo=Google-Workspace)
+![Lucidchart](https://img.shields.io/badge/-Lucidchart-000?&logo=Lucidchart)
 
 
 ---
@@ -121,8 +106,6 @@ Documentation, Wireframing, Stakeholder communication
 ## Links
 <!-- Section layout inspired by Awesome GitHub Profile README "Descriptive" patterns:
      https://github.com/abhisheknaiidu/awesome-github-profile-readme?tab=readme-ov-file#descriptive- -->
-- [**Portfolio**](https://learn.nextwork.org/happy_maroon_jolly_red_currant/portfolio)
-- [**Contact**](mailto:maximus@nextwork.org)
 
 <a href="https://www.linkedin.com/in/maximus-soares/" target="blank">
   <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
